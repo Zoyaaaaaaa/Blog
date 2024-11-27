@@ -13,6 +13,9 @@ Welcome to our innovative blog platform! This project combines modern web techno
 ## Demo Video 🎥
 To see the platform in action, check out this demo video:
 
+https://github.com/user-attachments/assets/2d8a6190-6664-431f-849b-52b2c8ef1c2a
+
+
 ## Tech Stack 🛠️
 
 - **Frontend**: [Next.js](https://nextjs.org/) for a fast and responsive user interface.
